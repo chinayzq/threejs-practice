@@ -4,20 +4,20 @@
 
 ## DEMO-01
   THREE.Scene()  
-    * 创建场景对象Scene
-    * docs/api/zh/scenes/Scene
+    * 创建场景对象Scene  
+    * docs/api/zh/scenes/Scene  
   THREE.BoxGeometry(1, 1, 1)  
-    * BoxGeometry是四边形的原始几何类
-    * docs\api\zh\geometries
+    * BoxGeometry是四边形的原始几何类  
+    * docs\api\zh\geometries  
   THREE.MeshBasicMaterial({color: '#ff0000'})  
-    * 基础网格材质，不受光照影响的材质
-    * docs/api/zh/materials/MeshBasicMaterial
+    * 基础网格材质，不受光照影响的材质  
+    * docs/api/zh/materials/MeshBasicMaterial  
   THREE.Mesh(geometry, material)  
-    * docs/api/zh/objects/Mesh
+    * docs/api/zh/objects/Mesh  
   THREE.PerspectiveCamera(75, sizes.width / sizes.height)  
-    * docs/api/zh/cameras/PerspectiveCamera
+    * docs/api/zh/cameras/PerspectiveCamera  
   THREE.WebGLRenderer({ canvas })  
-    * docs/api/zh/renderers/WebGLRenderer
+    * docs/api/zh/renderers/WebGLRenderer  
   renderer.render(scene, camera)  
     * .render ( scene : Scene, camera : Camera, renderTarget : WebGLRenderTarget, forceClear : Boolean ) : null
 ## DEMO-02
