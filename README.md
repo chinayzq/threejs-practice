@@ -3,9 +3,15 @@
 <hr>
 
 ## DEMO-01
-  Markdown的段落没有特殊的格式，直接编写文字就好，段落的换行号是使用两个以上的空格加回车。  
+  THREE.Scene()
+  THREE.BoxGeometry(1, 1, 1)
+  THREE.MeshBasicMaterial({color: '#ff0000'})
+  THREE.Mesh(geometry, material)
+  THREE.PerspectiveCamera(75, sizes.width / sizes.height)
+  THREE.WebGLRenderer({ canvas })
+  renderer.render(scene, camera)  
 
 ## DEMO-02
-  Markdown的段落没有特殊的格式，直接编写文字就好，段落的换行号是使用两个以上的空格加回车。  
+  
 
 
