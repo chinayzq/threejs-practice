@@ -3,7 +3,7 @@
 <hr>
 
 ## DEMO-01
-  THREE.Scene()
+  THREE.Scene()  
   THREE.BoxGeometry(1, 1, 1)
   THREE.MeshBasicMaterial({color: '#ff0000'})
   THREE.Mesh(geometry, material)
