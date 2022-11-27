@@ -14,7 +14,7 @@ const material = new THREE.MeshBasicMaterial({
 });
 // Group - 可以通过group整体操作组内的元素
 // const group = new THREE.Group();
-// const cube1 = new THREE.mesh(
+// const cube1 = new THREE.Mesh(
 //   new THREE.BoxGeometry(1,1,1),
 //   new THREE.MeshBasicMaterial({
 //     color: 0xff0000

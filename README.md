@@ -1,6 +1,6 @@
 # threeJs 学习笔记
 
-## DEMO-01
+## DEMO-01-scene
   THREE.Scene()  
     * 创建场景对象Scene  
     * docs/api/zh/scenes/Scene  
@@ -18,7 +18,7 @@
     * docs/api/zh/renderers/WebGLRenderer  
   renderer.render(scene, camera)  
     * .render ( scene : Scene, camera : Camera, renderTarget : WebGLRenderTarget, forceClear : Boolean ) : null
-## DEMO-02
+## DEMO-02-transform
   THREE.Group()  
     * docs/api/zh/objects/Group  
   THREE.AxesHelper()  
@@ -26,6 +26,9 @@
   camera.lookAt()  
   rotation.reorder()  
     * 设置三个轴的旋转渲染顺序，结果会有不同  
+
+## DEMO-03-animation  
+  
   
   
 
