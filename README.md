@@ -19,13 +19,13 @@
   renderer.render(scene, camera)  
     * .render ( scene : Scene, camera : Camera, renderTarget : WebGLRenderTarget, forceClear : Boolean ) : null
 ## DEMO-02-transform
-  THREE.Group()  
-    * docs/api/zh/objects/Group  
-  THREE.AxesHelper()  
-    * docs/api/zh/helpers/AxesHelper  
-  camera.lookAt()  
-  rotation.reorder()  
-    * 设置三个轴的旋转渲染顺序，结果会有不同  
+THREE.Group()  
+ * docs/api/zh/objects/Group  
+THREE.AxesHelper()  
+ * docs/api/zh/helpers/AxesHelper  
+camera.lookAt()  
+rotation.reorder()  
+ * 设置三个轴的旋转渲染顺序，结果会有不同  
 
 ## DEMO-03-animation  
   
