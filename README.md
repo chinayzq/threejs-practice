@@ -28,8 +28,8 @@ rotation.reorder()
   * 设置三个轴的旋转渲染顺序，结果会有不同  
 
 ## DEMO-03-animation  
-  
-  
-  
-
-
+THREE.Clock()  
+  * docs/api/zh/core/Clock  
+gsap  
+  * 最健全的web动画库之一  
+  * https://zhuanlan.zhihu.com/p/145332205  
