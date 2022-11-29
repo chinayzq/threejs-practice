@@ -46,4 +46,8 @@ gsap
 ## DEMO-04-camera  
 new OrbitControls()  
   * docs/examples/controls/OrbitControls  
-  
+
+## DEMO-05-fullscreen-and-resize
+监听resize和dblclick，处理resize和全屏（兼容safari）  
+
+
