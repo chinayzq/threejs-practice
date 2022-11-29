@@ -42,3 +42,8 @@ THREE.Clock()
 gsap  
   * 最健全的web动画库之一  
   * https://zhuanlan.zhihu.com/p/145332205  
+
+## DEMO-04-camera  
+new OrbitControls()  
+  * docs/examples/controls/OrbitControls  
+  
