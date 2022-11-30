@@ -50,4 +50,9 @@ new OrbitControls()
 ## DEMO-05-fullscreen-and-resize
 监听resize和dblclick，处理resize和全屏（兼容safari）  
 
+## DEMO-06-geometry  
+new THREE.BufferGeometry()  
+  * docs/api/zh/core/BufferGeometry  
 
+Float32Array  
+  * 为什么使用Float32Array?
