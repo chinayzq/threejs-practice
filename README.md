@@ -55,4 +55,8 @@ new THREE.BufferGeometry()
   * docs/api/zh/core/BufferGeometry  
 
 Float32Array  
-  * 为什么使用Float32Array?
+  * 为什么使用Float32Array?  
+
+## DEMO-06-texture  
+new THREE.TextureLoader()
+  * docs/api/zh/loaders/TextureLoader
