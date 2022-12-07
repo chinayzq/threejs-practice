@@ -4,7 +4,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 // import * as dat from 'lil-gui';
 
 const textureLoader = new THREE.TextureLoader();
-const cubeTexture = textureLoader.load('/texture/lavatile.jpg');
+const cubeTexture = textureLoader.load('/textures/lavatile.jpg');
 const sizes = {
   width: window.innerWidth,
   height: window.innerHeight,
