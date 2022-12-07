@@ -1,5 +1,7 @@
 # threeJs 学习笔记
 
+素材地址：
+https://gitee.com/alphardex/threejs-journey/tree/main
 ## DEMO-01-scene
 THREE.Scene()  
   * 创建场景对象Scene  
@@ -57,6 +59,6 @@ new THREE.BufferGeometry()
 Float32Array  
   * 为什么使用Float32Array?  
 
-## DEMO-06-texture  
+## DEMO-07-texture  
 new THREE.TextureLoader()
   * docs/api/zh/loaders/TextureLoader
